@@ -1,5 +1,7 @@
 package generics;
 
-public class Holder1 {
+class Automobile{}
 
+public class Holder1 {
+	
 }

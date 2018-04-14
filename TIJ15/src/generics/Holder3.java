@@ -10,8 +10,9 @@ public class Holder3<T> {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Holder3<Automobile> h3= new Holder3<>(new Automobile());
+		Holder3<Automobile> h3 = new Holder3<Automobile>(new Automobile());
 		Automobile a = h3.get();
+		System.out.println("HelloWorld");
 	}
 
 }
